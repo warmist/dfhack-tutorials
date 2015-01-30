@@ -68,3 +68,4 @@ Finally let's add a way to exit the screen in a normal way. Again there are more
 widgets.Label{
 	text={{text="Exit",key="LEAVESCREEN",frame={b=1,l=1},key_sep="()",on_activate=self:callback('dismiss')}}
 }
+```
