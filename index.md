@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # Gui programming on dfhack
 
 ## Intro
