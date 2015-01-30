@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://warmist.github.io/dfhack-tutorials" # the base hostname & protocol for your site
+baseurl: "/dfhack-tutorials/" # the subpath of your site, e.g. /blog/
+url: "http://warmist.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Dfhack tutorials
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "dfhack tutorials" # used by search engines
   
   # Header and footer text
   header_text: 
