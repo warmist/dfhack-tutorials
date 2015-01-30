@@ -1,11 +1,7 @@
 ---
 layout: post
-title: First steps
+title: First steps of gui programming
 ---
-
-# Gui programming on dfhack
-
-## Intro
 
 So there is some strange notion that gui programming with dfhack is very hard. Everyone is inventing all these insanely hard raw tricks and trying to workaround df all the time but IMHO simplest system that is easy and fun to use is never used. Let's try to fix that.
 
