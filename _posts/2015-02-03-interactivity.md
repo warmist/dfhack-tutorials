@@ -188,3 +188,5 @@ That is it. Now you have a new widget that you can use anywhere else. Also this 
 And now for how it looks:
 
 ![picture of dwarven news](http://i.imgur.com/FkbkuUY.png "Dwarven News")
+
+The source code for this tutorial can be found here: [textfield.lua](/dfhack-tutorials/lua/textfield.lua)
