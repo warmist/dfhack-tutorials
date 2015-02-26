@@ -67,4 +67,4 @@ widgets.Label{
 }
 ```
 
-The source code for this tutorial can be found here: [tutorial_1.lua](lua/tutorial_1.lua)
+The source code for this tutorial can be found here: [tutorial_1.lua](/lua/tutorial_1.lua)
