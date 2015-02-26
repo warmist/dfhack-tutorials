@@ -184,3 +184,6 @@ test_screen{}:show()
 ```
 
 That is it. Now you have a new widget that you can use anywhere else. Also this can be extended to support multiple colors or more inteligent cursor but that it's for now.
+
+And now for how it looks:
+![picture of dwarven news](http://i.imgur.com/FkbkuUY.png "Dwarven News")
