@@ -66,3 +66,5 @@ widgets.Label{
 	text={ {text="Exit",key="LEAVESCREEN",frame={b=1,l=1},key_sep="()",on_activate=self:callback('dismiss')} }
 }
 ```
+
+The source code for this tutorial can be found here: [tutorial_1.lua](lua/tutorial_1.lua)
